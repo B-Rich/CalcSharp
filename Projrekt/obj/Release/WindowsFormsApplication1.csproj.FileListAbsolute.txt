@@ -1,0 +1,8 @@
+C:\Users\Threadcount\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Threadcount\AppData\Local\Temporary Projects\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Threadcount\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Threadcount\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Threadcount\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Threadcount\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.csproj.GenerateResource.Cache
+C:\Users\Threadcount\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Threadcount\AppData\Local\Temporary Projects\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

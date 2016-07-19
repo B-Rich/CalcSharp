@@ -1,0 +1,8 @@
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\bin\Debug\Projrekt.exe
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\bin\Debug\Projrekt.pdb
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Debug\Projrekt.csproj.GenerateResource.Cache
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Debug\Projrekt.exe
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Debug\Projrekt.pdb

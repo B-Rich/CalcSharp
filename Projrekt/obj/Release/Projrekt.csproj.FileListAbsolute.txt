@@ -1,0 +1,16 @@
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Release\Projrekt.csproj.GenerateResource.Cache
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\bin\Release\Projrekt.exe
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\bin\Release\Projrekt.pdb
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Release\Projrekt.exe
+C:\Users\Threadcount\Documents\Visual Studio 2008\Projects\Projrekt\Projrekt\obj\Release\Projrekt.pdb
+C:\Users\Threadcount\Documents\Visual Studio 2010\Projects\Projrekt\Projrekt\obj\Release\Projrekt.exe
+C:\Users\Threadcount\Documents\Visual Studio 2010\Projects\Projrekt\Projrekt\obj\Release\Projrekt.pdb
+C:\Users\Threadcount\Documents\Visual Studio 2010\Projects\Projrekt\Projrekt\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Threadcount\Documents\Visual Studio 2010\Projects\Projrekt\Projrekt\obj\Release\Projrekt.csproj.GenerateResource.Cache
+C:\Users\Threadcount\Documents\Visual Studio 2010\Projects\Projrekt\Projrekt\bin\Release\Projrekt.exe
+C:\Users\Threadcount\Documents\Visual Studio 2010\Projects\Projrekt\Projrekt\bin\Release\Projrekt.pdb
+C:\Users\Threadcount\Documents\Visual Studio 2010\Projects\Projrekt\Projrekt\obj\Release\WindowsFormsApplication1.Form1.resources
+C:\Users\Threadcount\Documents\Visual Studio 2010\Projects\Projrekt\Projrekt\obj\Release\Projrekt.csprojResolveAssemblyReference.cache
